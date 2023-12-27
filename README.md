@@ -5,18 +5,23 @@ Welcome to the Sentiment Analysis with Classification project—a result of an e
 # Key Highlights:
 
 1)Dataset Exploration:
+
 In-depth exploration of sentiment-labeled datasets to unravel patterns and nuances crucial for effective sentiment analysis.
 
 2)Preprocessing Techniques:
+
 Implementation of text preprocessing techniques, including tokenization and elimination of stop words, to enhance the quality of textual data for subsequent machine learning tasks.
 
 3)Feature Extraction:
+
 Leveraging natural language processing (NLP) techniques for extracting meaningful features from text, transforming raw data into a format conducive to machine learning algorithms.
 
 4)Model Selection:
+
 Evaluation and selection of classification algorithms such as Support Vector Machines (SVM) and Naive Bayes to determine the most effective model for sentiment analysis.
 
 5)Model Training and Tuning:
+
 Rigorous model training using labeled data, coupled with hyperparameter tuning and cross-validation, to optimize performance and accuracy.
 
 # Project Outcomes:
