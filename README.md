@@ -2,7 +2,7 @@
 
 Welcome to the Sentiment Analysis with Classification project—a result of an enriching summer internship in machine learning! This project delves into the fascinating realm of sentiment analysis, where the objective is to discern sentiments expressed in textual data. Throughout the internship, we focused on employing classification methods to build a robust sentiment analysis model.
 
-#Key Highlights:
+Key Highlights:
 
 1)Dataset Exploration:
 In-depth exploration of sentiment-labeled datasets to unravel patterns and nuances crucial for effective sentiment analysis.
@@ -19,15 +19,15 @@ Evaluation and selection of classification algorithms such as Support Vector Mac
 5)Model Training and Tuning:
 Rigorous model training using labeled data, coupled with hyperparameter tuning and cross-validation, to optimize performance and accuracy.
 
-#Project Outcomes:
+Project Outcomes:
 A finely-tuned sentiment analysis model capable of categorizing text into positive, negative, or neutral sentiments.
 Insights into the strengths and limitations of various classification methods in the context of sentiment analysis.
 
-#Future Work:
+Future Work:
 Exploration of additional classification algorithms and their impact on sentiment analysis accuracy.
 Consideration of real-world deployment scenarios for the sentiment analysis model.
 
-#Acknowledgments:
+Acknowledgments:
 A special thanks to the mentor and the internship program for providing an opportunity to delve into the exciting field of machine learning and sentiment analysis. This project stands as a testament to the dedication and learning experienced during the summer internship.
 
 Feel free to explore the project, replicate the results, and contribute to its growth. Your feedback is invaluable in shaping the future enhancements of this sentiment analysis project. Happy coding!
